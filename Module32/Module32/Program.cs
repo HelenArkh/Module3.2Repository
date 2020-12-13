@@ -10,9 +10,9 @@ namespace Module32
             
             Console.WriteLine(myName);
 
-            Console.WriteLine("Привет, мир!");
-            Console.WriteLine("Мне 27 лет");
-            Console.WriteLine("My name is Helen");
+            Console.WriteLine("\t Привет, мир!");
+            Console.WriteLine("\t Мне 27 лет");
+            Console.WriteLine("\t My name is \n Helen");
 
             Console.ReadKey();
         }
