@@ -6,7 +6,11 @@ namespace Module32
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            const string myName = "Helen";
+            
+            Console.WriteLine(myName);
+
+            Console.ReadKey();
         }
     }
 }
