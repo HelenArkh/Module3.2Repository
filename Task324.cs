@@ -4,8 +4,7 @@ class MainClass
 {
 	public static void Main(string[] args)
 	{
-		string myName;
-		myName = "Helen";
+		string myName = "Helen";
 
 		Console.WriteLine(myName);
 
