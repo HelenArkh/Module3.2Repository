@@ -23,6 +23,8 @@ namespace Module32
             Console.WriteLine(0b11);
             Console.WriteLine(5.5);
 
+            Form.Questionnaire();
+
             Console.ReadKey();
         }
     }
