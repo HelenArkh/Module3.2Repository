@@ -30,6 +30,9 @@ namespace Module32
             Console.WriteLine("IntMax {0} ", int.MaxValue);
 
             Enumeration.MyFavoriteDayOfWeek();
+            Console.WriteLine();
+
+            Operations.MainOperations();
 
             Console.ReadKey();
         }
