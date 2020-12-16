@@ -33,6 +33,10 @@ namespace Module32
             Console.WriteLine();
 
             Operations.MainOperations();
+            Console.WriteLine();
+
+            TypeConversions.Conversions();
+
 
             Console.ReadKey();
         }
