@@ -36,6 +36,9 @@ namespace Module32
             Console.WriteLine();
 
             TypeConversions.Conversions();
+            Console.WriteLine();
+
+            UserProfile.Questionnaire();
 
 
             Console.ReadKey();
