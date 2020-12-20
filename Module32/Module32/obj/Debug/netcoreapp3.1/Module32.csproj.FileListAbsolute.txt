@@ -1,0 +1,13 @@
+D:\VS_Projects\Module3.2Repository\Module32\Module32\bin\Debug\netcoreapp3.1\Module32.exe
+D:\VS_Projects\Module3.2Repository\Module32\Module32\bin\Debug\netcoreapp3.1\Module32.deps.json
+D:\VS_Projects\Module3.2Repository\Module32\Module32\bin\Debug\netcoreapp3.1\Module32.runtimeconfig.json
+D:\VS_Projects\Module3.2Repository\Module32\Module32\bin\Debug\netcoreapp3.1\Module32.runtimeconfig.dev.json
+D:\VS_Projects\Module3.2Repository\Module32\Module32\bin\Debug\netcoreapp3.1\Module32.dll
+D:\VS_Projects\Module3.2Repository\Module32\Module32\bin\Debug\netcoreapp3.1\Module32.pdb
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.csprojAssemblyReference.cache
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.AssemblyInfoInputs.cache
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.AssemblyInfo.cs
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.dll
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.pdb
+D:\VS_Projects\Module3.2Repository\Module32\Module32\obj\Debug\netcoreapp3.1\Module32.genruntimeconfig.cache
